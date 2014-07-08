@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: 
+Implementation-Title: HippoDemo Site
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.coop.projects
+Built-By: Yuliya
+Build-Jdk: 1.7.0_60
+Created-By: Apache Maven 3.2.2
+Archiver-Version: Plexus Archiver
+

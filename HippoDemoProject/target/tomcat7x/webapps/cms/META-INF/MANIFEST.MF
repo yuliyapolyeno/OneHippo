@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Vendor: 
+Project-Build: -1
+Implementation-Title: HippoDemo CMS
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.coop.projects
+Built-By: Yuliya
+Build-Jdk: 1.7.0_60
+Project-Version: 1.0-SNAPSHOT
+Created-By: Apache Maven 3.2.2
+Hippo-Release-Version: 7.9.0
+Archiver-Version: Plexus Archiver
+
